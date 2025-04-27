@@ -7,6 +7,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,ai" />
 </p>
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ankitpathak62" alt="ankitpathak62" />
+  </a>
+</p>
+
 ---
 
 ### 📈 **GitHub Stats**
