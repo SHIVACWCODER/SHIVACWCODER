@@ -1,37 +1,45 @@
-# Hi there, I'm Hack44189 👋
+<h1 align="center">🚀 Shiva CW Coder</h1>
+<h3 align="center">Innovating the Future with Code & AI</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hack44189&color=blue)
+---
 
-## About Me
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,ai" />
+</p>
 
-- 🔭 I’m currently working on [Your Project Name]
-- 🌱 I’m currently learning [Technology/Language]
-- 👯 I’m looking to collaborate on [Project/Technology]
-- 🤔 I’m looking for help with [Project/Technology]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true" />
+</p>
 
-## 🛠️ Technologies and Tools I use
+---
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+### 🏆 **What I Do**
+- 💻 **AI-Powered Web Development** – Merging AI & Web Tech  
+- 🎨 **Luxury UI/UX** – Crafting premium, high-end designs  
+- 🚀 **Performance & Optimization** – Speed, scalability & security
+  
 
-## 📈 GitHub Stats
+## My level
+<!-- Pehla Image -->
+<img src="https://www.dataquest.io/wp-content/uploads/2024/03/Python-Project-Ideas_-Advanced-Level-1536x822.png.webp" width="400">
 
-![Hack44189's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hack44189&show_icons=true&theme=radical)
+<br>
 
-## 🔗 Connect with me
+<!-- Dusra Image -->
+<img src="https://www.dataquest.io/wp-content/uploads/2024/03/Python-Project-Ideas_-Intermediate-Level.png.webp" width="400">
 
-[![YouTube](https://img.shields.io/badge/-YouTube-05122A?style=flat&logo=youtube&logoColor=FF0000)](www.youtube.com/@Shiva-Coder)
-[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram&logoColor=0088CC)](t.me/shivacoder)
-[![Instagram](https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=E4405F)](https://www.instagram.com/its_shiva_maurya_09/)
-[![Email](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=D14836)](mailto:hak44189@gmail.com)
+<br>
+
+<img src="https://www.dataquest.io/wp-content/uploads/2024/03/Python-Project-Ideas_-Beginner-Level.png.webp" width="400">
+
+
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark&hide_border=false" />
+</p>
+
+### ⚡ **Let's Connect**
+📩 **Email:** hak44189@gmail.com    
+📺 **YouTube:** [Shiva CW Coder](www.youtube.com/@Shiva-Coder)  
+
+
