@@ -7,18 +7,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,ai" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankitpathak62" alt="ankitpathak62" />
-  </a>
-</p>
-
 ---
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true" />
-
+### 📈 **GitHub Stats**
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpathak62&show_icons=true&locale=en" alt="ankitpathak62" />
 </p>
+
 
 ---
 
