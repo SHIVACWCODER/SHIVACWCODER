@@ -44,8 +44,8 @@
 ---
 
 ### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark&hide_border=false" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitpathak62&show_icons=true&locale=en" alt="ankitpathak62" />
 </p>
 
 ----
