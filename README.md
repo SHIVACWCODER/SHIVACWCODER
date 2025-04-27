@@ -7,8 +7,17 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,github,ai" />
 </p>
 
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ankitpathak62" alt="ankitpathak62" />
+  </a>
+</p>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical&count_private=true" />
+
 </p>
 
 ---
@@ -32,11 +41,14 @@
 
 <img src="https://www.dataquest.io/wp-content/uploads/2024/03/Python-Project-Ideas_-Beginner-Level.png.webp" width="400">
 
+---
 
 ### 📈 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=dark&hide_border=false" />
 </p>
+
+----
 
 ### ⚡ **Let's Connect**
 📩 **Email:** hak44189@gmail.com    
